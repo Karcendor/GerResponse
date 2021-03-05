@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EIHHaeOik9CUaRD9i8OHgU4ZL/LmumMqQc0jWuXvYCBRbsGX8DBbohiVS6kd3iDsFCqfb6e08vUQMkLjVJ5JpQ==",
+  "success": true,
+  "projectFilePath": "/Users/nikolajpetrov/Project/Project.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikolajpetrov/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/nikolajpetrov/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
